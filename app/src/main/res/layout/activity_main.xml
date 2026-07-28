@@ -23,4 +23,10 @@
         android:layout_marginTop="140dp"
         android:text="@string/brayan"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:layout_marginTop="140dp"
+        android:text="@string/juan"/>
 </LinearLayout>
