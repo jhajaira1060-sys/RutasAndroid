@@ -10,7 +10,6 @@
 
 
     <Button
-        android:id="@+id/btnSiguiente"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/red"
@@ -24,5 +23,23 @@
         android:layout_marginTop="140dp"
         android:text="@string/steven"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/oranje"
+        android:layout_marginTop="140dp"
+        android:text="@string/brayan"/>
 
-</LinearLayout>straintlayout.widget.ConstraintLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:layout_marginTop="140dp"
+        android:text="@string/juan"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/red"
+        android:layout_marginTop="140dp"
+        android:text="@string/danna"/>
+</LinearLayout>
